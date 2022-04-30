@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Arkansas police confirm shooting injures up to 10 in Dumas - THV11",
+      "description": "Arkansas State Police have confirmed that at least 20 people were shot and injured at a local business in Dumas Saturday night.https://www.thv11.com/article/...",
+      "url": "https://www.youtube.com/watch?v=5eBly8T5eNk",
+      "urlToImage": "https://i.ytimg.com/vi/5eBly8T5eNk/hqdefault.jpg",
+      "publishedAt": "2022-03-20T03:37:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Joel Shannon, Ana Faguy, Ella Lee, Tom Vanden Brook, Bart Jansen and Jeanine Santucci, USA TODAY",
+      "title": "UK defense says Ukraine holding its airspace; Russia uses first hypersonic missile: Live updates - USA TODAY",
+      "description": "Evacuations from besieged cities proceeded Saturday along eight of 10 humanitarian corridors, Ukraine's Deputy Prime Minister Iryna Vereshchuk said.",
+      "url": "https://www.usatoday.com/story/news/politics/2022/03/19/ukraine-russia-invasion-putin-updates/7099086001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/18/USAT/30ab20f0-8dbd-4bcc-ab9d-d2c55984b1e8-AP_Russia_Putin_Crackdown.jpg?auto=webp&crop=3982,2240,x822,y1184&format=pjpg&width=1200",
+      "publishedAt": "2022-03-20T03:33:45Z",
+      "content": "Russia's invasion of Ukraine has entered its fourth week without capturing Kyiv or toppling Ukraine's government, but the bombardment of Ukrainian cities continues — a move western defense experts wa… [+24391 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Patrick Reilly",
+      "title": "Video shows Kenosha cop kneeling on 12-year-old girl's neck after school fight - New York Post ",
+      "description": "Kenosha Unified School District released redacted footage Friday that shows Shawn Guetschow kneeling on the 12-year-old’s neck for over a minute.",
+      "url": "https://nypost.com/2022/03/19/kenosha-cop-kneels-on-12-year-old-girls-neck-after-school-fight-video/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/cop-kneeling.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2022-03-20T02:22:00Z",
+      "content": "An off-duty police officer knelt on a 12-year-old girls neck while restraining her after a lunchtime fight at a school in Kenosha, Wisconsin, surveillance footage released by the school district show… [+2320 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "The Associated Press",
+      "title": "6 injured after sheriff helicopter crash in national forest - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/US/wireStory/injured-helicopter-crash-national-forest-83557272",
+      "urlToImage": "null",
+      "publishedAt": "2022-03-20T01:41:15Z",
+      "content": "AZUSA, Calif. -- Six people were injured Saturday afternoon after a Los Angeles Sheriffs Department helicopter crashed in the Angeles National Forest near Azusa, the LA County Fire Department said.\r\n… [+1547 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WLS-TV" },
+      "author": "ABC7 Chicago Digital Team",
+      "title": "Elise Malary missing: Woman's body recovered from Lake Michigan identified as transgender rights advocate - WLS-TV",
+      "description": "The body of a woman found near Lake Michigan Thursday has been identified as missing Evanston woman and transgender rights advocate, Elise Malary.",
+      "url": "https://abc7chicago.com/elise-malary-missing-found-body-evanston/11664860/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/11665782_031922-wls-elise-malary-img.jpg?w=1600",
+      "publishedAt": "2022-03-20T01:41:15Z",
+      "content": "EVANSTON, Ill. (WLS) -- The body of a woman found near Lake Michigan Thursday has been identified Saturday as missing Evanston woman and transgender rights advocate, Elise Malary.Malary, 31, was repo… [+4189 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Richard Lawler",
+      "title": "Netflix's Tekken: Bloodlines anime is coming later in 2022 - The Verge",
+      "description": "A new anime series based on the Tekken games from Bandai Namco will launch on Netflix in 2022. The first teaser trailer reveals it follows Jin Kazama on a path of revenge that takes him to The King of Iron Fist tournament.",
+      "url": "https://www.theverge.com/2022/3/19/22986995/tekken-bloodlines-anime-netflix-teaser-trailer-streaming",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AzbSFJnhVSfyjG7QgTMB_TXjN4w=/0x51:1678x930/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23330773/tekken_bloodline_netflix.jpg",
+      "publishedAt": "2022-03-20T01:06:30Z",
+      "content": "The series will follow Jin Kazama on a path of revenge that leads to The King of Iron Fist tournament."
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Robert Woods trade grades: Titans get 'A' for discount WR pickup, Rams shed salary after adding Allen Robinson - CBS Sports",
+      "description": "Tennessee acquired Woods for a future sixth-round pick",
+      "url": "https://www.cbssports.com/nfl/news/robert-woods-trade-grades-titans-get-a-for-discount-wr-pickup-rams-shed-salary-after-adding-allen-robinson/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/11/24/05118c18-6bd9-4a80-998f-43b120112d13/thumbnail/1200x675/3ec8b9ba0e14e52a2ae18f17d2809095/robert-woods-thumb.jpg",
+      "publishedAt": "2022-03-20T00:51:56Z",
+      "content": "Apparently not wanting to be left out of one of the busiest transactional weeks in recent NFL history, the Tennessee Titans swung a Saturday night trade. \r\nAfter releasing last season's major acquisi… [+1766 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Alan Cullison, Isabel Coles",
+      "title": "Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets - The Wall Street Journal",
+      "description": "Russia fires long-range ballistic air missile, hitting military base in western Ukraine; capturing Mariupol remains key objective",
+      "url": "https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670",
+      "urlToImage": "https://images.wsj.net/im-508354/social",
+      "publishedAt": "2022-03-20T00:30:00Z",
+      "content": "KYIV, UkraineFighting between Russian and Ukrainian forces has reached the streets of the port city of Mariupol, officials said Saturday, a strategic objective for Moscow as it attempts to open an ov… [+383 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Texas wildfires: Slow progress being made in putting out Eastland County fire - WFAA",
+      "description": "Officials say around 15% of the Eastland Complex fire was contained as of Saturday afternoon.",
+      "url": "https://www.youtube.com/watch?v=zeWe4TrzHcs",
+      "urlToImage": "https://i.ytimg.com/vi/zeWe4TrzHcs/hqdefault.jpg",
+      "publishedAt": "2022-03-20T00:16:03Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Express" },
+      "author": "Andrea Blazquez",
+      "title": "'Wow so stylish!' Kate Middleton stuns in royal blue as she arrives in Belize with William - Express",
+      "description": "KATE MIDDLETON and Prince William have arrived in Belize for a week-long Caribbean royal tour.",
+      "url": "https://www.express.co.uk/life-style/style/1583323/Kate-Middleton-style-Belize-Caribbean-royal-tour-prince-william-latest-pictures",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/12/750x445/1583323.jpg",
+      "publishedAt": "2022-03-20T00:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Interest In Electric Vehicles Grows As Gas Prices Rise - NBC News",
+      "description": "The number of people browsing for green vehicles has increased in recent weeks as gas prices climbed, according to Edmunds. Availability of electric vehicles...",
+      "url": "https://www.youtube.com/watch?v=XY8kgPEjSJ4",
+      "urlToImage": "https://i.ytimg.com/vi/XY8kgPEjSJ4/maxresdefault.jpg",
+      "publishedAt": "2022-03-19T23:42:52Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Meg Kelly, Karly Domb Sadof",
+      "title": "Mariupol Drama Theater - The Washington Post",
+      "description": "New satellite imagery, alongside video and photos verified by The Post, shows destruction in Mariupol's city center, including severe damage to the Mariupol Drama Theater.",
+      "url": "https://www.washingtonpost.com/investigations/2022/03/19/mariupol-theater-satellite-images/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DJHDDCVHUAI6ZBRIHWSPVD4HCQ.jpg&w=1440",
+      "publishedAt": "2022-03-19T22:53:13Z",
+      "content": "Mariupol, a southern Ukrainian port on the Sea of Azov, had been cut off from the outside world for more than two weeks when a Russian airstrike hit the theater Wednesday.\r\nHundreds of women, familie… [+3943 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WRAL.com" },
+      "author": "WRAL",
+      "title": "NC-based Marines die in NATO drill when Osprey crashes in Norway - WRAL News",
+      "description": "Four U.S. Marines were killed when their Osprey aircraft crashed in a Norwegian town in the Arctic Circle during a NATO exercise unrelated to Russia's war in Ukraine, authorities said Saturday.",
+      "url": "https://www.wral.com/4-us-troops-die-in-norway-plane-crash-unrelated-to-ukraine/20195109/",
+      "urlToImage": "https://wwwcache.wral.com/asset/news/political/2022/03/18/20194563/media_da3cda8fb29549248a223901ff1cf2c3-DMID1-5u9cvui2u-640x480.jpg",
+      "publishedAt": "2022-03-19T22:07:30Z",
+      "content": "By AP and Brett Kneese, WRAL reporter\r\nHELSINKI — Four U.S. Marines were killed when their Osprey aircraft crashed in a Norwegian town in the Arctic Circle during a NATO exercise unrelated to Russia'… [+3803 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Emma Roth",
+      "title": "Mac Studio teardown reveals potentially upgradeable SSD storage - The Verge",
+      "description": "Max Tech’s takedown of the Mac Studio could indicate the possibility of upgradeable SSD storage. During the takedown, Max Tech discovered two extra SSD ports.",
+      "url": "https://www.theverge.com/2022/3/19/22986705/mac-studio-teardown-potentially-upgradeable-ssd-storage-apple",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hcjvsQwcgB25XNNxpYrMoHRU31Q=/0x147:2040x1215/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23320968/bfarsace_171212_5072_0090.jpg",
+      "publishedAt": "2022-03-19T22:02:17Z",
+      "content": "The device comes with two SSD ports"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Jennifer Lopez and Ben Affleck in Escrow for Insanely Expensive Estate - TMZ",
+      "description": "Jennifer Lopez and Ben Affleck are taking the next step in their relationship, and it's a big one ... they're plunking down more than $50 MILLION on a spectacular estate ... real estate sources tell TMZ.",
+      "url": "https://www.tmz.com/2022/03/19/jennifer-lopez-ben-affleck-escrow-home-bel-air/",
+      "urlToImage": "https://imagez.tmz.com/image/db/16by9/2022/03/19/db07be212bbf43479ae9453d73b8e2d6_xl.jpg",
+      "publishedAt": "2022-03-19T22:02:00Z",
+      "content": "Jennifer Lopez and Ben Affleck are taking the next step in their relationship, and it's a big one ... they're plunking down more than $50 MILLION on a spectacular estate ... real estate sources tell … [+791 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Reuters",
+      "title": "Chinese official calls sanctions on Russia increasingly 'outrageous' - Fox Business",
+      "description": "A senior Chinese government official said on Saturday that sanctions imposed by Western nations on Russia over Ukraine are increasingly \"outrageous\".",
+      "url": "https://www.foxbusiness.com/economy/chinese-official-calls-sanctions-russia-increasingly-outrageous",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/03/0/0/GettyImages-1057976108.jpg?ve=1&tl=1",
+      "publishedAt": "2022-03-19T21:52:46Z",
+      "content": "A senior Chinese government official said on Saturday that sanctions imposed by Western nations on Russia over Ukraine are increasingly \"outrageous\".\r\nVice Foreign Minister Le Yucheng also acknowledg… [+2347 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Alexa Philippou",
+      "title": "UConn Huskies win record 28th consecutive opener in NCAA women's basketball tournament - ESPN",
+      "description": "UConn won its 28th consecutive NCAA tournament opener after shutting Mercer out in the third quarter of Saturday's victory.",
+      "url": "https://www.espn.com/womens-college-basketball/story/_/id/33548857/uconn-huskies-3rd-quarter-shutout-mercer-powers-28th-consecutive-win-ncaa-tournament-opener",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0319%2Fr988706_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-03-19T21:42:22Z",
+      "content": "STORRS, Conn. -- UConn Huskies coach Geno Auriemma wasn't too pleased with how his team played in the first 20 minutes of Saturday's NCAA tournament first-round game versus Mercer.\r\nYes, UConn was up… [+4311 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Abbey White",
+      "title": "Kanye “Ye” West’s Rep Says His Grammys Performance Was Pulled Over “Concerning Online Behavior” - Hollywood Reporter",
+      "description": "Kanye “Ye” West’s rep says that an unannounced performance at the 2022 Grammy Awards has been pulled due to “concerning online behavior.” A representative for the rapper confirmed to The Hollywood Reporter details in a report, published on Friday by The Blast…",
+      "url": "https://www.hollywoodreporter.com/news/music-news/kanye-west-grammys-performance-pulled-online-behavior-1235115091/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/03/GettyImages-1205200416.jpg?w=1024",
+      "publishedAt": "2022-03-19T21:16:50Z",
+      "content": "Kanye “Ye” West’s rep says that an unannounced performance at the 2022 Grammy Awards has been pulled due to “concerning online behavior.”\r\nA representative for the rapper confirmed to The Hollywood R… [+2915 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "ANNE D'INNOCENZIO AP Business Writer",
+      "title": "Baker Hughes joins oil rivals in pausing Russian operations - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/US/wireStory/halliburton-schlumberger-suspend-operations-russia-83549530",
+      "urlToImage": "https://s.abcnews.com/images/US/WireAP_9577c86e99814744a655586a560c252e_16x9_992.jpg",
+      "publishedAt": "2022-03-19T20:43:35Z",
+      "content": "NEW YORK -- Baker Hughes, a major U.S. oil services company, added its name Saturday to the growing list of U.S. companies that are pulling back from Russia in response to Moscows war against Ukraine… [+2253 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ross Levitt and Kristin Fisher, CNN",
+      "title": "Russian cosmonauts spark speculation after arriving at International Space Station in Ukraine's colors - CNN",
+      "description": "A trio of Russian cosmonauts arrived Friday at the International Space Station wearing bright yellow flight suits trimmed with blue, raising questions about whether the three were showing solidarity with Ukraine by wearing its national colors and rebuking the…",
+      "url": "https://www.cnn.com/2022/03/19/politics/russian-cosmonauts-ukraine-international-space-station/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220319122917-01-russian-cosmonauts-iss-0318-super-tease.jpg",
+      "publishedAt": "2022-03-19T20:21:00Z",
+      "content": "Washington, DC (CNN)A trio of Russian cosmonauts arrived Friday at the International Space Station wearing bright yellow flight suits trimmed with blue, raising questions about whether the three were… [+3089 chars]"
+    }
+  ]
+}
